@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 302588798331367681, guid: 3dc91a8f7e550404989c5237d2f8b5dc, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6763017918066365166, guid: 3dc91a8f7e550404989c5237d2f8b5dc, type: 3}
       propertyPath: m_Name
       value: Tile_RoadCorner90
